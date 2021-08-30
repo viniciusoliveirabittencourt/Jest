@@ -20,7 +20,6 @@ ATENÇÃO!!! Edite apenas este arquivo. Não altere os arquivos da pasta 'src'.
 */
 
 describe('4 - Quem sobreviveu?', () => {
-  
   beforeEach(() => {
     adventure.randomAttack();
   });
